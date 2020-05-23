@@ -1,4 +1,4 @@
-# Where to find Kenny Kelley
+# kenny-kelley.github.io
 
 This repository is how I host a public website for contact info and whatever. Thank you, GitHub.
 
