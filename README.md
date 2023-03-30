@@ -1,5 +1,6 @@
 # kenny-kelley.github.io
+This repository tracks a simple personal web page.
 
-This repository is how I host a public website for contact info and whatever. Thank you, GitHub.
+The site, which is hosted via GitHub Pages, can be found here: https://kenny-kelley.github.io/
 
-Via GitHub Pages, it can be accessed at https://kenny-kelley.github.io/.
+Thank you, GitHub.
